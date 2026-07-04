@@ -22,9 +22,6 @@ Thumbs.db
 # Streamlit cache
 .streamlit/
 
-# Model/Data files (optional if large)
-*.pkl
-
 # Environment variables
 .env
 
